@@ -1,0 +1,33 @@
+
+#onemli{
+    color: red;
+    font-size: 50px;
+}
+h2 , h3 , h4{
+    color: blue;
+    font-size: 35px;
+    font-family: 'Comforter Brush', cursive;
+}
+.text-green{
+    color: green;
+}
+.text-red{
+    color: red;
+}
+.text-blue{
+    color: blue;
+}
+li{
+    color: green;
+    font-size: 30px;
+}
+.size{
+    width: 800;
+    height: 200;
+}
+.font{
+    font-size: 40px;
+}
+.siyah{
+    color: black;
+}
