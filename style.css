@@ -1,0 +1,53 @@
+.pad{
+    
+    margin-left: 40%;
+}
+.pad2{
+    margin-left: 20%;
+}
+.pad3{
+    margin-left: 25%;
+}
+.margin{
+    width: 20%;
+    margin-left: auto;
+}
+.margin2{
+    margin: auto;
+}
+.margin3{
+    margin: auto;
+}
+.search{
+    background-color: #EEEEEE;
+    width: 300;
+}
+.first{
+    background-color: #7EE5DA;
+    float: left;
+    width: 500px;
+    height: 90px;
+}
+.second{
+    background-color: #70CCC2;
+    width: 200px;
+    height: 90px;
+    float: left;
+}
+.three{
+    background-color: #62B3AA;
+    width: 418px;
+    height: 90px;
+    float: left;
+}
+.center {
+    margin: auto;
+    width: 60%;
+    }
+p{
+    margin: auto;
+    width: 60%;
+}
+a{
+    margin-left: 25%;
+}
